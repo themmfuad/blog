@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>MM Fuad&#039;s Blog</title>
+      <link>https://themmfuad.github.io/blog</link>
+      <description>Last 10 notes on MM Fuad&#039;s Blog</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>index</title>
+    <link>https://themmfuad.github.io/blog/</link>
+    <guid>https://themmfuad.github.io/blog/</guid>
+    <description><![CDATA[ Welcome to MM Fuad’s blog! Here, I share my personal insights, hands-on labs, and discoveries in the world of technology—focusing on Cloud computing, Linux, DevOps, and Networking. ]]></description>
+    <pubDate>Wed, 23 Jul 2025 15:12:03 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
